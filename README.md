@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Jesiel Gomes!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 🔭 I’m currently working on [MCC Brasil](https://www.cursilho.org.br/novo/)
 
