@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Jesiel Gomes!</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
+- MBA Student of Web Design, at Faculdade Focus - São Paulo.
+- Graduation of Systems Analysis and Development, at Instituto Federal de Educação, Ciência e Tecnologia - São Paulo.
+- Graduation of Marketing, at Universidade Paulista - São Paulo.
+
 - 🔭 I’m currently working on [MCC Brasil](https://www.cursilho.org.br/novo/)
 
 - 🌱 I’m currently learning **DataBase, Node, React**
