@@ -5,11 +5,11 @@
 
 ## 🎓 Formações Acadêmicas
 
-💡 Tecnólogo em **Análise e Desenvolvimento de Sistemas** – IFSP
-📊 Tecnólogo em **Marketing** – UNIP
-📘 Pós-graduação em **Web Design** – Faculdade Focus
-🧩 Especialização em **Gestão de Projetos** – Etec Getúlio Vargas
-🔌 Engenharia da Computação – UNIVESP *(cursando)*
+- 💡 Tecnólogo em **Análise e Desenvolvimento de Sistemas** – IFSP
+- 📊 Tecnólogo em **Marketing** – UNIP
+- 📘 Pós-graduação em **Web Design** – Faculdade Focus
+- 🧩 Especialização em **Gestão de Projetos** – Etec Getúlio Vargas
+- 🔌 Engenharia da Computação – UNIVESP *(cursando)*
 
 ---
 
