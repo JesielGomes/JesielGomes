@@ -1,40 +1,46 @@
-<h1 align="center">Olá, eu sou o Jesiel Gomes 👋</h1>
+<h1 align="center">Jesiel Gomes 👋</h1>
 <h3 align="center">Profissional de e-commerce migrando para o desenvolvimento web com foco, disciplina e muito HTML na veia</h3>
 
-🎓 **Formações Acadêmicas**
-- Tecnólogo em Análise e Desenvolvimento de Sistemas – IFSP  
-- Tecnólogo em Marketing – Universidade Paulista (UNIP)
-- Pós-graduação em Web Design – Faculdade Focus
-- Especialização em Gestão de Projetos – Etec Getúlio Vargas
-- Início de Engenharia da Computação – UNIVESP *(cursando)*
+---
+
+## 🎓 Formações Acadêmicas
+
+💡 Tecnólogo em **Análise e Desenvolvimento de Sistemas** – IFSP
+📊 Tecnólogo em **Marketing** – UNIP
+📘 Pós-graduação em **Web Design** – Faculdade Focus
+🧩 Especialização em **Gestão de Projetos** – Etec Getúlio Vargas
+🔌 Engenharia da Computação – UNIVESP *(cursando)*
 
 ---
 
-### 💻 Sobre mim
+## 💻 Sobre mim
 
-Sou um profissional com mais de 7 anos de experiência em **e-commerce, marketing digital e tecnologia**, hoje em transição de carreira para **desenvolvimento web**.  
-Tenho uma base sólida em **negócios e tecnologia**, com forte atuação em projetos digitais, plataformas martech, UX e SEO.  
-Agora, estou me aprofundando em **programação front-end** e buscando colaborar em projetos reais para consolidar minhas habilidades técnicas.
+> "Tecnologia com propósito, código com clareza, e uma boa dose de cafeína."
 
-🎯 **Foco atual**:
-- HTML, CSS e JavaScript (front-end raiz, sem firula)
-- Iniciando com React, Node.js e bancos de dados
-- Estudo diário + prática + projetos pessoais
+Profissional com +7 anos em **e-commerce e marketing digital**, migrando para o **desenvolvimento web** com uma base sólida em negócios e tecnologia.
+
+Atuação em:
+- 🛒 Martech, UX, CRM, plataformas digitais
+- 📈 SEO, Google Analytics, WordPress
+- 🔧 Projetos com foco em integração e impacto
+
+🎯 Atualmente focado em:
+- Aprimorar front-end (HTML, CSS, JS)
+- Estudar React, Node e bancos de dados
+- Trabalhar em projetos reais (inclusive o seu, se precisar 😎)
 
 ---
 
-### 🛠️ Ferramentas e Tecnologias
+## 🛠️ Ferramentas e Tecnologias
 
-**Conhecimentos práticos:**
-- HTML5 | CSS3 | JavaScript
-- Figma, Photoshop, Adobe XD
-- WordPress, Elementor, Tray E-commerce
-- SEO | Google Analytics | UX Design
-- Git e GitHub
+```text
+📌 Conhecimentos práticos:
+HTML5 | CSS3 | JavaScript
+Figma | Photoshop | WordPress | Git & GitHub
+SEO | Google Analytics | UX | Tray E-commerce
 
-**Em aprendizado:**
-- React.js | Node.js | PostgreSQL | TypeScript
-
+📚 Em aprendizado:
+React.js | Node.js | PostgreSQL | TypeScript
 ---
 
 ### 📫 Conecte-se comigo
