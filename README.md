@@ -33,7 +33,6 @@ Atuação em:
 
 ## 🛠️ Ferramentas e Tecnologias
 
-```text
 📌 Conhecimentos práticos:
 HTML5 | CSS3 | JavaScript
 Figma | Photoshop | WordPress | Git & GitHub
