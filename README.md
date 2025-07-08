@@ -1,8 +1,6 @@
 <h1 align="center">Jesiel Gomes 👋</h1>
 <h3 align="center">Profissional de e-commerce migrando para o desenvolvimento web com foco, disciplina e muito HTML na veia</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4AF5DC&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+Jesiel!;Front-end+em+construção...;Tech%2C+café+e+gatas+%F0%9F%90%B1;Aprendendo+React%2C+Node+e+mais..." alt="Typing SVG" />
-</p>
+
 ---
 
 ## 🎓 Formações Acadêmicas
